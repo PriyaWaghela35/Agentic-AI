@@ -1,0 +1,6 @@
+openai
+flask
+sqlalchemy
+pandas
+scikit-learn
+python-dotenv
